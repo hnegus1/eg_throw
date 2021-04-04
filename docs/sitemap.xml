@@ -3,21 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://whendideglastthrow.com/posts/2020-03-13_ogseed/</loc>
-    <lastmod>2020-03-13T20:02:00+00:00</lastmod>
+    <loc>https://whendideglastthrow.com/posts/2021-03-04_ig/</loc>
+    <lastmod>2021-04-04T13:16:05+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://whendideglastthrow.com/posts/</loc>
-    <lastmod>2020-03-13T20:02:00+00:00</lastmod>
+    <lastmod>2021-04-04T13:16:05+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://whendideglastthrow.com/</loc>
+    <lastmod>2021-04-04T13:16:05+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://whendideglastthrow.com/posts/2020-03-13_ogseed/</loc>
     <lastmod>2020-03-13T20:02:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
